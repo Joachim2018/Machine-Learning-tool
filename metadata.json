@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Machine Learning Workbench",
+  "description": "An interactive, beginner-friendly web application to upload CSV datasets, perform data cleaning and exploratory analysis, visualize trends, train and evaluate machine learning models, and export comprehensive PDF reports, processed JSON, and trained model files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
